@@ -1,17 +1,9 @@
-# flutter_sau_life_app
+# Mobile Application by Flutter/Dart
 
-A new Flutter project.
+## โปรเจ็คต์แสดงหน้า Home, Login, Sign Up โดยเน้น UI เป็นหลัก
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<kbd><img width="250" alt="Home" src="https://github.com/user-attachments/assets/cc1f45aa-daa3-4d93-85ea-bba626570105" /></kbd>
+&nbsp;
+<kbd><img width="250" alt="Login" src="https://github.com/user-attachments/assets/fb2dc285-de07-45b4-ac6f-a8f48c7a4e46" /></kbd>
+&nbsp;
+<kbd><img width="250" alt="Sign Up" src="https://github.com/user-attachments/assets/22ee57a8-e3ff-4549-ab46-326000d2eb83" /></kbd>  
